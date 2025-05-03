@@ -1,1 +1,6 @@
 
+# Redirect all requests from the apex domain to www
+https://ptarot.co/*  https://www.ptarot.co/:splat  301!
+
+# Rewrite the root path to fork2.html for the www domain
+/   /main.html   200
