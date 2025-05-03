@@ -1,2 +1,11 @@
-Creator : Cory Zuber
-currently held by Z532
+# Why ptarot Exists
+
+The U.S. transportation system is inefficient, wasteful, and outdated. We spend hours stuck at red lights, merge unnecessarily into single lanes, and suffer avoidable traffic collisions every day.
+
+Time lost to these inefficiencies is time stolen from people — and from progress.
+
+ptarot is here to end that cycle.
+
+We believe transportation should not be a daily source of stress and risk. It should be elegant, fast, autonomous, and alive.
+
+Our mission: end the era of traffic. Begin the era of air.
