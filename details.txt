@@ -1,0 +1,25 @@
+# Problems in Ground-Based Transit
+
+**Red Lights**  
+Red lights force vehicles to idle even when no cross-traffic exists. This is a time tax paid for the failure of real-time coordination. It’s a relic of a static, centralized system.
+
+**Lane Merging**  
+Merging multi-lane highways into fewer lanes creates unnecessary bottlenecks. It’s not scalable, not safe, and it forces aggressive driver behavior.
+
+**Collision Risk**  
+Ground transport is inherently vulnerable to crashes. Human reaction time, visibility limits, and physical congestion lead to millions of preventable accidents annually.
+
+---
+
+# ptarot's Response
+
+**Air-Based Routing**  
+Our vehicles bypass gridlock by operating in three dimensions. There is no merging — just adaptive routing.
+
+**Autonomous Coordination**  
+High-altitude autopilot and inter-vehicle coordination remove the need for stop-and-go traffic logic.
+
+**Fail-Safe Architecture**  
+Redundant lift systems, buoyant fallback design, and real-time terrain analysis enable near-zero crash probability.
+
+ptarot vehicles are not cars that fly. They are a redefinition of what it means to move — and to live.
