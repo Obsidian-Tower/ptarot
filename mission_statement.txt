@@ -1,9 +1,13 @@
-Flying cars of all kinds. 
-Fast 4 for racing.
-Large RV like for remote living anywhere.
-All electric. 
-solar panels.
-Bouyant models for ocean.
-High Altitude autopilot for indefinate flight operations. 
-You never have to land if you don't want to.
-I want my racing one. 0-60 time measured in the vertical not horizontal.
+# ptarot: The Future of Flight
+
+**ptarot** is our initiative to bring flying vehicles to everyone — not just as a luxury, but as a scalable, safe, and sustainable new way of living and moving.
+
+We are building **all-electric flying vehicles** for every use case:
+
+- **Fast 4**: Ultra-responsive racing models with vertical 0–60 acceleration — speed measured in ascent, not asphalt.
+- **AeroRV**: Spacious, buoyant flyers designed for permanent or semi-permanent off-grid living — land, sea, or sky.
+- **Ocean-Class Flyers**: Buoyant models optimized for marine deployment and emergency water landings.
+- **Solar-Integrated**: All models incorporate solar panels for energy autonomy.
+- **Infinite Altitude Ops**: High-altitude autopilot enables indefinite flight — you never have to land unless you choose to.
+
+We are redefining transportation as a form of liberation. **ptarot** is not just flying cars — it’s airborne freedom.
