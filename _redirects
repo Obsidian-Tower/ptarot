@@ -1,4 +1,3 @@
-
 # Redirect all requests from the apex domain to www
 https://ptarot.co/*  https://www.ptarot.co/:splat  301!
 
