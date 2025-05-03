@@ -1,1 +1,21 @@
-ptarot.co
+# Domains used by ptarot 
+
+# Primary Domain
+ptarot.co  -  main site for public-facing communications, product info, and media
+
+# Additional Domains
+# Currently unused, but reserved for future expansion.
+
+# Suggested future use cases:
+# fly.ptarot.co     - live fleet access interface / autonomous flight control dashboard
+# api.ptarot.co     - backend API services for vehicle data, updates, telemetry, etc.
+# sim.ptarot.co     - training simulation environment (XR/AR for pilots, devs, or testers)
+# garage.ptarot.co  - hardware dev logs, schematics, repair manuals
+# ptarot.eth        - ENS alias for web3 integrations or DAO access
+
+# Notes:
+# - Only ptarot.co is currently active.
+# - All other subdomains or TLDs are aspirational or queued for reservation.
+# - As new domains are registered, add them above with their operational role.
+
+# Last Updated: 2025-05-03
